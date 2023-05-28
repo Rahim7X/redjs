@@ -12,7 +12,7 @@ Download from releases
 
 ```bash
   unzip redjs-linux.zip
-  cd redjs-linux.zip
+  cd redjs-linux
   sudo cp redjs /bin
 ```
 
